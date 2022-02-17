@@ -1,7 +1,8 @@
 const app = {
     urldatos : "/rsc/data/autos.json",
 
-    cargarFichas : function(){
+    cargarFichas : function()
+    {
         const fichas = document.querySelector("#fichas");
         let html = "";
 
@@ -26,6 +27,11 @@ const app = {
                     </div>
                     `;
                 }
+                fichas.innerHTML = html
             }).catch(error => console.error( error ));
     }   
+}
+
+window.onload = function(){ 
+    app.cargarFichas();
 }

@@ -28,7 +28,7 @@
     {
         "id" : 3,
         "tipo" : "auto", 
-        "foto" : "ford-figo.png",
+        "foto" : "ford-figo.jpg",
         "marca" : "Ford",
         "modelo" : "Figo",
         "anio" : "2016",
