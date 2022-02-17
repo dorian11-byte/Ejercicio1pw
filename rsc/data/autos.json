@@ -1,0 +1,41 @@
+[
+    {
+        "id" : 1,
+        "tipo" : "auto", 
+        "foto" : "supra.png",
+        "marca" : "Toyota",
+        "modelo" : "supra",
+        "anio" : "2021",
+        "motor" : {
+            "desplazamiento" : "3.0L",
+            "potencia" : "387.3 HP",
+            "rendimiento" : "11 k/l"
+        }
+    },
+    {
+        "id" : 2,
+        "tipo" : "Suv", 
+        "foto" : "xtrail.png",
+        "marca" : "Nissan",
+        "modelo" : "X-trail",
+        "anio" : "2019",
+        "motor" : {
+            "desplazamiento" : "2.4L",
+            "potencia" : "150 HP",
+            "rendimiento" : "14 k/l"
+        }
+    },
+    {
+        "id" : 3,
+        "tipo" : "auto", 
+        "foto" : "ford-figo.png",
+        "marca" : "Ford",
+        "modelo" : "Figo",
+        "anio" : "2016",
+        "motor" : {
+            "desplazamiento" : "1.4L",
+            "potencia" : "108 HP",
+            "rendimiento" : "18 k/l"
+        }
+    }
+]
